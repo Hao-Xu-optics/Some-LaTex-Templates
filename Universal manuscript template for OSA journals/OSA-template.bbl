@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Yelin:03}
+D.~Yelin, D.~Oron, S.~Thiberge, E.~Moses, and Y.~Silberberg,
+  \enquote{Multiphoton plasmon-resonance microscopy,}
+  {\protect\JournalTitle{Opt. Express}} \textbf{11}, 1385--1391 (2003).
+
+\bibitem{Masajada:13}
+J.~Masajada, M.~Bacia, and S.~Drobczy\'{n}ski, \enquote{Cluster formation in
+  ferrofluids induced by holographic optical tweezers,}
+  {\protect\JournalTitle{Opt. Lett.}} \textbf{38}, 3910--3913 (2013).
+
+\bibitem{Zhang:14}
+Y.~Zhang, S.~Qiao, L.~Sun, Q.~W. Shi, W.~Huang, L.~Li, and Z.~Yang,
+  \enquote{Photoinduced active terahertz metamaterials with nanostructured
+  vanadium dioxide film deposited by sol-gel method,}
+  {\protect\JournalTitle{Optics Express}} \textbf{22}, 11070--11078 (2014).
+
+\bibitem{OSA}
+{Optical Society}, \enquote{{OSA Publishing},}
+  \url{https://www.osapublishing.org}.
+
+\bibitem{FORSTER2007}
+P.~Forster, V.~Ramaswamy, P.~Artaxo, T.~Bernsten, R.~Betts, D.~Fahey,
+  J.~Haywood, J.~Lean, D.~Lowe, G.~Myhre, J.~Nganga, R.~Prinn, G.~Raga,
+  M.~Schulz, and R.~V. Dorland, \enquote{Changes in atmospheric consituents and
+  in radiative forcing,} in \emph{Climate Change 2007: The Physical Science
+  Basis. Contribution of Working Group 1 to the Fourth assesment report of
+  Intergovernmental Panel on Climate Change,}  S.~Solomon, D.~Qin, M.~Manning,
+  Z.~Chen, M.~Marquis, K.~B. Averyt, M.~Tignor, and H.~L. Miler, eds.
+  (Cambridge University Press, 2007).
+
+\bibitem{Dean2006}
+B.~H. Dean, D.~L. Aronstein, S.~J. Smith, R.~Shiri, and S.~D. Acton,
+  \enquote{Phase retrieval algorithm for {JWST} flight and testbed telescope,}
+  in \emph{Space Telescopes and Instrumentation I: Optical, Infrared, and
+  Millimeter,}  vol. 6265 (2006), p.~17.
+
+\bibitem{testthesis}
+R.~McKay, \enquote{X-ray crystallography,} Ph.D. thesis, Princeton University
+  (1982).
+
+\bibitem{codeexample}
+C.~Rivers, \enquote{Epipy: Python tools for epidemiology,} {figshare} (2014)
+  [retrieved 13 May 2015], \url{http://dx.doi.org/10.6084/m9.figshare.1005064}.
+
+\end{thebibliography}
