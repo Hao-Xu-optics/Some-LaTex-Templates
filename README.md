@@ -8,3 +8,5 @@ This template can be obtained in [[Link]](https://www.osapublishing.org/josaa/su
 
 ## Template for submissions to Scientific Reports
 **Nature Publishing Group**. This template can be obtained in [Overleaf](https://cn.overleaf.com/latex/templates/template-for-submissions-to-scientific-reports/xyrztqvdccns).
+
+**Notice:** The template is in the .zip file.
